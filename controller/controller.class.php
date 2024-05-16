@@ -1,5 +1,5 @@
 <?php
-include "dbh.class.php";
+include "database/dbh.class.php";
 class Controller extends Dbh
 {
 

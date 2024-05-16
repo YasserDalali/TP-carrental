@@ -1,5 +1,5 @@
 <?php
-include "classes/controller.class.php";
+include "controller/controller.class.php";
 $control = new Controller();
 
 
